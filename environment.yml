@@ -1,6 +1,0 @@
-name: test
-channels:
-  - defaults
-dependencies:
-  - pip
-prefix: /Users/ketilroe/miniconda3/envs/test
