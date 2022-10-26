@@ -1,1 +1,4 @@
 langmuir
+scipy
+numpy
+matplotlib
