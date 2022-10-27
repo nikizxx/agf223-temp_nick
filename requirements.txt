@@ -2,3 +2,4 @@ langmuir
 scipy
 numpy
 matplotlib
+ipython
