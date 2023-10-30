@@ -1,7 +1,7 @@
-python=="3.8"
+python
 langmuir
 scipy
-numpy==1.19
+numpy=="1.19"
 matplotlib
 ipython
 pandas
